@@ -1,0 +1,6 @@
+{
+  "name": "HDR Vision Player",
+  "description": "Next-generation ExoPlayer with native HDR10, Dolby Vision profile support, HLG rendering, real-time codec stats, and custom playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
